@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516689593547",
+    "project_id": "timer-agenda",
+    "storage_bucket": "timer-agenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516689593547:android:eef2bcd923069bc0e8c74e",
+        "android_client_info": {
+          "package_name": "com.example.avaliacao01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516689593547-j79974gmmm669p0tam238d7j2hgnhfp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArHZOehk5vuIMuPRXMR9JkgM360FFpgMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516689593547-j79974gmmm669p0tam238d7j2hgnhfp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
